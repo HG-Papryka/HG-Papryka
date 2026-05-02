@@ -2,7 +2,7 @@
 
 # ⚡ HG-Papryka
 
-<!-- Custom Neon Snake -->
+<!-- The Snake (GitHub Green Palette) -->
 ![Snake animation](https://raw.githubusercontent.com/HG-Papryka/HG-Papryka/output/github-contribution-grid-snake.svg)
 
 <br/>
@@ -15,9 +15,10 @@
 ---
 
 ### 📊 Lua Developer Stats
-<!-- Fixed the broken links from your screenshot -->
-<img src="https://github-readme-stats.vercel.app/api?username=HG-Papryka&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HG-Papryka&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" height="150" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HG-Papryka&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HG-Papryka&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
 <br/>
 
