@@ -7,7 +7,7 @@ on:
   push:
     branches:
     - main
- 
+
 permissions:
   contents: write
 
@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#00FF41&color_dots=#161b22,#003b00,#008b02,#00bc03,#00FF41
+
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
