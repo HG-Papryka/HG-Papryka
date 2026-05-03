@@ -3,6 +3,6 @@
 ---
 
 ### About Me
-=holly stinky vibe coder
--professional larper
--i like potatos
+=# holly stinky vibe coder
+-# professional larper
+-# i like potatos
