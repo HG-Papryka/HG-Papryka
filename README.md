@@ -3,6 +3,4 @@
 ---
 
 ### About Me
-=# holly stinky vibe coder
--# professional larper
--# i like potatos
+stinky ahh vibecoder
